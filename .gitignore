@@ -1,0 +1,38 @@
+# Prerequisites
+*.d
+
+.vs/LIbrary Mnagement System/v16/Browse.VC.db
+.vs/LIbrary Mnagement System/v16/ipch/AutoPCH/ed25d47548202b6e/MYFORM.ipch
+.vs/LIbrary Mnagement System/v16/ipch/AutoPCH/6b791a7f1b1c40c5/MYFORM.ipch
+.vs/LIbrary Mnagement System/v16/ipch/AutoPCH/d0d55a5b9fd96d49/MYFORM.ipch
+.vs/LIbrary Mnagement System/v16/ipch/AutoPCH/f1fcb28c443bd8b6/MYFORM.ipch
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
