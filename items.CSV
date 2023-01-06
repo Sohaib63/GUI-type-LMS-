@@ -1,0 +1,9 @@
+Item ID,LibraryID,Category,Title,Author,Publisher,Production_Year,Status, Copies
+1,1,book,coop,cds malik,pearson,2000,on,12
+7,1,book,oop,ds malik,pearson,2000,on,12
+2,1,article,oop,ds malik,pearson,2000,on,12
+3,1,digital media,oop,ds malik,pearson,2000,on,12
+4,2,book,oop,ds malik,pearson,2000,on,12
+5,2,article,oop,ds malik,pearson,2000,on,12
+6,2,digital media,oop,ds malik,pearson,2000,on,12
+8,3,book,Book,Madni,Sohaib,2019,on,100
